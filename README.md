@@ -16,10 +16,7 @@
             <a href="https://wa.me/5515996832204 target="_blank"><img src="https://github.com/user-attachments/assets/c87109ef-d3f1-49c6-8cac-23bc834cd514" width="30" height="30" alt="WhatsApp "/></a>
             <br>
             <br>
-           [![Gustavo stats](https://github-readme-stats.vercel.app/api?username=Gustavolopes-dev)](https://github.com/anuraghazra/github-readme-stats)
-           <br>
-           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavolopes-dev)](https://github.com/anuraghazra/github-readme-stats)
-
+     
 
 
 
