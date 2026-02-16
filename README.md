@@ -2,7 +2,7 @@
 
 
 
-Eu me chamo Gustavo Lopes sou um **Desenvolvedor Front-End **, com sólida base em **HTML**, **CSS** e **Git/GitHub**, e atualmente expandindo meus conhecimentos em **JavaScript**.  
+Eu me chamo Gustavo Lopes sou um **Desenvolvedor Full-StacK **, com sólida base em **HTML**, **CSS** **Java Script**, **React** e **Git/GitHub**, e atualmente expandindo meus conhecimentos.  
 
 Tenho como objetivo criar **interfaces modernas, responsivas e eficientes**, aplicando boas práticas de desenvolvimento e versionamento de código.  
 
